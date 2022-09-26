@@ -4,7 +4,6 @@ import 'package:desafio_simplificado/menuCadastro.dart';
 
 void main() {
   print("\x1B[2J\x1B[0;0H");
-//final quando receber o valor ele não mudará ao longo do pragrama
   MenuCadastro menuCadastro = MenuCadastro();
   String inputId = '';
   String option = '';
